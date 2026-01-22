@@ -5,3 +5,4 @@ gemspec
 
 gem "jekyll-remote-theme", group: :jekyll_plugins
 
+gem "bigdecimal", "~> 3.1"
